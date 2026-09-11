@@ -1,6 +1,13 @@
-## Portfolio Under Construction……
+## Hi, I'm Veronica!
+* Senior studying Computer Science + Data Science at the University of Arizona,
+* Interested in Software Engineering / ML / Data Engineering,
+* Based in Tucson, AZ. 
 
-##
+I enjoy building smart, reliable systems that transform raw data into meaningful insights, and turning ideas from the ground up into solutions that work.
+Currently, I'm focused on machine learning and looking for opportunities in Junior Dev!
+
+
+##Tech Stack
 
 <!--
 **Vera4528/Vera4528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
