@@ -1,4 +1,4 @@
-## Hi, I'm Veronica!
+#Hi, I'm Veronica!
 * Senior studying Computer Science + Data Science at the University of Arizona,
 * Interested in Software Engineering / ML / Data Engineering,
 * Based in Tucson, AZ. 
