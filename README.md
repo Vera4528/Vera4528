@@ -23,5 +23,5 @@ Git | Make | VSCode | Eclipse | Unix | Bash
 
 ## Contact me
 * [LinkedIn](https://www.linkedin.com/in/veronica-ellingboe-894327280/)
-* [Email](verae1980@gmail.com)
+* [Email](mailto:verae1980@gmail.com)
 
