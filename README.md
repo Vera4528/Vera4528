@@ -18,10 +18,10 @@ Git | Make | VSCode | Eclipse | Unix | Bash
 
 ## Projects
 1. iGEM Arizona Website
-   * constructing… 
+   * A website built with Next.js and TypeScript to document the University of Arizona iGEM team's synthetic biology research and projects. Collaborated with team members to translate project requirements into responsive modern web pages using contemporary UI/UX design patterns, improved maintainability through a component-based architecture.
 2. Multi-Region ETL Pipeline for Industrial Emissions and Air Quality
    * constructing…
-3. Calendar Assistant: Custom GPT-2 Connected to Gooogle Calendar API
+3. Calendar Assistant: Custom GPT-2 Connected to Google Calendar API
    * constructing…
 
 ## Contact me
